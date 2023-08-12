@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Algo{
+public class Algo_1{
     private static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         long num1 = 0;
